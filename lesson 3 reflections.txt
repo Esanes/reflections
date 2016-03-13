@@ -7,3 +7,5 @@ Forks are copies inside GitHub, clones are copies from GitHub to your computer a
 I would use clones when I want to work on an existing project locally in my computer and then upload it when I finish.
 I would use branches when I want to test experimental features or fix bugs in my computer for sharing them after.
 I would use fork when I want to work on someone's repository whitout modifying the original one.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can view it offline.
